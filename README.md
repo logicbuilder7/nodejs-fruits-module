@@ -80,7 +80,7 @@ Orange
 
 ## 👨‍💻 Author
 
-Digvej Chaudhary
+Digvej 
 
 ---
 
